@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\junio\\Desktop\\Api_Login\\WebApplication1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EB9D95F1-D489-4C23-9A48-21E8024ABA39}|WebApplication1\\LoginApi.csproj|c:\\users\\junio\\desktop\\api_login\\webapplication1\\webapplication1\\controllers\\registrocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB9D95F1-D489-4C23-9A48-21E8024ABA39}|WebApplication1\\LoginApi.csproj|solutionrelative:webapplication1\\controllers\\registrocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB9D95F1-D489-4C23-9A48-21E8024ABA39}|WebApplication1\\LoginApi.csproj|c:\\users\\junio\\desktop\\api_login\\webapplication1\\webapplication1\\models\\reponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB9D95F1-D489-4C23-9A48-21E8024ABA39}|WebApplication1\\LoginApi.csproj|solutionrelative:webapplication1\\models\\reponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB9D95F1-D489-4C23-9A48-21E8024ABA39}|WebApplication1\\LoginApi.csproj|c:\\users\\junio\\desktop\\api_login\\webapplication1\\webapplication1\\models\\registro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB9D95F1-D489-4C23-9A48-21E8024ABA39}|WebApplication1\\LoginApi.csproj|solutionrelative:webapplication1\\models\\registro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RegistroController.cs",
+              "DocumentMoniker": "C:\\Users\\junio\\Desktop\\Api_Login\\WebApplication1\\WebApplication1\\Controllers\\RegistroController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\RegistroController.cs",
+              "ToolTip": "C:\\Users\\junio\\Desktop\\Api_Login\\WebApplication1\\WebApplication1\\Controllers\\RegistroController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\RegistroController.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAmwC0AAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T20:35:24.514Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Reponse.cs",
+              "DocumentMoniker": "C:\\Users\\junio\\Desktop\\Api_Login\\WebApplication1\\WebApplication1\\Models\\Reponse.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Models\\Reponse.cs",
+              "ToolTip": "C:\\Users\\junio\\Desktop\\Api_Login\\WebApplication1\\WebApplication1\\Models\\Reponse.cs",
+              "RelativeToolTip": "WebApplication1\\Models\\Reponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T20:33:32.218Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Registro.cs",
+              "DocumentMoniker": "C:\\Users\\junio\\Desktop\\Api_Login\\WebApplication1\\WebApplication1\\Models\\Registro.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Models\\Registro.cs",
+              "ToolTip": "C:\\Users\\junio\\Desktop\\Api_Login\\WebApplication1\\WebApplication1\\Models\\Registro.cs",
+              "RelativeToolTip": "WebApplication1\\Models\\Registro.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T20:29:04.033Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
